@@ -46,3 +46,8 @@
 15. Usé los comandos "git add ." y "git commit -m "cambios en el README.md"" para guardar los cambios que hice en el README.md.
 16. Cambié a la rama master con el comando "git checkout main" e hice un merge de la rama v0.2 en el main correctamente.
 ```
+## Merge con conflicto
+```
+17. Escribí "hola" en el 1.txt y usé "git add ." y "git commit -m "se escribió hola en 1.txt""
+18. Cambié a la rama v0.2 y escribí "adios" en el 1.txt, luego usé "git add ." y "git commit -m "se escribió adios en 1.txt""
+```
