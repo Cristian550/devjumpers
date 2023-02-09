@@ -50,4 +50,14 @@
 ```
 17. Escribí "hola" en el 1.txt y usé "git add ." y "git commit -m "se escribió hola en 1.txt""
 18. Cambié a la rama v0.2 y escribí "adios" en el 1.txt, luego usé "git add ." y "git commit -m "se escribió adios en 1.txt""
+19. Me posicioné en el main con "git checkout main", usé "git add ." y "git commit -m "más cambios en el README.md"" para guardar los cambios que hice en el README.md.
+20. Hice merge con "git merge v0.2" y apareció un conflicto.
+```
+## Listado de ramas
+```
+21. Hice un "git branch --merged" para listar las ramas con merge y un "git brach --no-merged" para las ramas sin merge.
+``` 
+## Arreglar conflicto
+```
+22. Arreglé el conflicto quedándome con ambos textos y re-organizándolos,
 ```
