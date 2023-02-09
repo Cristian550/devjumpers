@@ -36,3 +36,8 @@
 ```
 12. Añadí un archivo "2.txt" en la rama v0.2
 ```
+## Crear rama remota v0.2
+```
+13. Usé los comandos "git add ." y "git commit -m "rama v0.2 y 2.txt creados"" para guardar los cambios y prepararlos para subirlos al repositorio remoto.
+14. usé "git push" pero ocurrió un error, para resolverlo usé otro comando "git push --set-upstream origin v0.2" para crear una rama en el repositorio remoto y poder pushear los cambios correctamente.
+```
