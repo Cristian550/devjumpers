@@ -26,5 +26,13 @@
 ```
 ## Añadir fichero 1.txt
 ```
-Añadí un archivo con el nombre "1.txt" al repositorio con el comando "touch 1.txt"
+10. Añadí un archivo con el nombre "1.txt" al repositorio con el comando "touch 1.txt"
+```
+## Crear una rama v0.2
+```
+11. Creé una rama llamadada "v0.2" con el comado "git branch v0.2" y luego usé "git checkout v0.2" para posicionarme en esa rama.
+```
+## Añadir fichero 2.txt
+```
+12. Añadí un archivo "2.txt" en la rama v0.2
 ```
