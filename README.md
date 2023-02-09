@@ -41,3 +41,8 @@
 13. Usé los comandos "git add ." y "git commit -m "rama v0.2 y 2.txt creados"" para guardar los cambios y prepararlos para subirlos al repositorio remoto.
 14. usé "git push" pero ocurrió un error, para resolverlo usé otro comando "git push --set-upstream origin v0.2" para crear una rama en el repositorio remoto y poder pushear los cambios correctamente.
 ```
+## Merge directo
+```
+15. Usé los comandos "git add ." y "git commit -m "cambios en el README.md"" para guardar los cambios que hice en el README.md.
+16. Cambié a la rama master con el comando "git checkout main" e hice un merge de la rama v0.2 en el main correctamente.
+```
