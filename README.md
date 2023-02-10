@@ -68,7 +68,9 @@
 ## Listado de cambios
 ```
 24. Listé los commits con sus ramas y tags con el comando "git log --oneline --decorate --all --graph":
-*   918d11b (HEAD -> main, origin/main) conflictos resueltos
+* dc36381 (HEAD -> main, origin/main) últimos cambios al README.md
+* 99d21f3 listado de cambios añadido, rama v0.2 borrada
+*   918d11b conflictos resueltos
 |\
 | * 48d989f se escribió adios en 1.txt
 * | 58134b5 más cambios en en README.md
