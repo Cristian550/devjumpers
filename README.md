@@ -59,5 +59,24 @@
 ``` 
 ## Arreglar conflicto
 ```
-22. Arreglé el conflicto quedándome con ambos textos y re-organizándolos,
+22. Arreglé el conflicto quedándome con ambos textos y re-organizándolos, después usé el "git add." y "git commit -m "conflictos resueltos"" para luego pushear con "git push". 
+```
+## Borrar rama
+```
+23. Borré la rama v0.2 con el comando "git branch -D v0.2".
+```
+## Listado de cambios
+```
+24. Listé los commits con sus ramas y tags con el comando "git log --oneline --decorate --all --graph":
+*   918d11b (HEAD -> main, origin/main) conflictos resueltos
+|\
+| * 48d989f se escribió adios en 1.txt
+* | 58134b5 más cambios en en README.md
+* | 200e992 se escribió hola en 1.txt
+* | c4486b6 merge directo
+|/
+* 205d7b9 cambios en el README.md
+* 624d3b9 (origin/v0.2) rama v0.2 y 2.txt creados
+* d0c99ac privado.txt, privada, .gitignore y 1.txt añadidos
+* 4ce6d1d commit inicial
 ```
