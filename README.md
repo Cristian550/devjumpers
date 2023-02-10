@@ -80,3 +80,22 @@
 * d0c99ac privado.txt, privada, .gitignore y 1.txt añadidos
 * 4ce6d1d commit inicial
 ```
+## Cuenta de GITHUB
+* Me puse una foto de perfil y activé el factor de autentificación.
+
+## Uso social de GITHUB
+* Seguí a mis compañeros de clase y sus repositorios, también les dí una estrella.
+
+## Crear una tabla
+* Realicé una tabla con la información de mis compañeros de clase:
+
+|NOMBRE         |GITHUB         |
+|-----------    |-----------    |
+|Enzo Franco    |[EnzoFranco31](https://github.com/EnzoFranco31)    |
+|Alejo Paiva    |[BLUHD823](https://github.com/BLUHD823)    |
+|Geraldine Montufar |[Geraldine1997](https://github.com/Geraldine1997)  |
+|Franco Formigo |[francobenjaminformigo](https://github.com/francobenjaminformigo)  |
+|Maria Artega    |[maryjse](https://github.com/maryjse)  |
+
+## Colaboradores
+* Colaborador: Enzo Franco.
